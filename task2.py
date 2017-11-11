@@ -113,25 +113,3 @@ def main():
 
 if __name__ == '__main__':
   main()
-
-
-
-
-
-
-# def front_back(a,b):
-#     if len(a)%2 == 0:
-#         lenasd = len(a)/2
-#         length = int(lenasd)
-#         firstHalf = a[:length]
-#         secondHalf = a[length:]
-#         return  "You Typed:\t "+ a.title() + " \nEqual Characters:  " + firstHalf + " " + secondHalf
-        # return  firstHalf +" "+ secondHalf
-    #
-    # elif len(a)%2 != 0:
-    #     tr = len(a)/2
-    #     length = int(tr)
-    #     firstHalf = a[:length+1]
-    #     secondHalf = a[length+1:]
-    #     return "You Typed "+ a.title() + "\nExtra Character are in First Half:  " +firstHalf.title() + " " + secondHalf
-        # return firstHalf +" "+  secondHalf
